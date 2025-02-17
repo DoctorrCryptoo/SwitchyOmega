@@ -1,5 +1,5 @@
 msgid ""
-msgstr ""
+msgstr "" ""
 "Project-Id-Version: SwitchyOmega 2.3.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-13 10:29+0000\n"
